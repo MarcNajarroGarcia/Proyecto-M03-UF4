@@ -31,4 +31,4 @@ Al seleccionar la opción "Eliminar contacto" del menú, se mostrará una lista 
 
 ## Autor
 
-Esta aplicación fue creada por [Tu nombre aquí].
+Esta aplicación fue creada por Marc Najarro y Óscar Parra.
