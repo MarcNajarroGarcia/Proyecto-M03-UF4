@@ -33,4 +33,4 @@ Al seleccionar la opción "Eliminar contacto" del menú, se mostrará una lista 
 
 Esta aplicación fue creada por Marc Najarro y Óscar Parra.
 
--- DAW - 20/04/2023 --
+-- DAW -  20/04/2023 --
